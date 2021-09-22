@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVLfgkIBTQR8tB8sad88Z0XocZ9JXD76QSNufWehTtYwlUWFQY6T3/PTfHFTGt/yXzaGGg5Iw/FYXExS5Z+OZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\Print Even Numbers\\Print Even Numbers\\Print Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

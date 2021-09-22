@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4NFibBrPUHjqDSkUGyW7jOLhBp7KZm4xoM3PGnF1ljvq6+7rpKz6dGzLgr7lVGq2zpAoYCruk8iCtIJqIDeKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\Simple Calculator\\Simple Calculator\\Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

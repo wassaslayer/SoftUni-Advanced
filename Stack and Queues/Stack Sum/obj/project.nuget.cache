@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4OXotkWCT4XZq4HAt16Pt6eCpa+96rg6pMu1PTAbOuYM/RqS5CMbdxH8KTCzir8MsOHmsKP1maInhWsNcktyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\Stack Sum\\Stack Sum\\Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

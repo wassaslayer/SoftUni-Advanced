@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxYBcUjC0bxgZPvTUr6EZYMeamrjb4F19Kn+M2LX+l7DZnQ31TkwsY7o8zUdevy1Y9C+sFfBhJ1z1dddbFEQwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\06. Songs Queue\\06. Songs Queue\\06. Songs Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

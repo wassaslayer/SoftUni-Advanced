@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YvhK6Vz1SATO6Mm/8nSXSMt5RV6pBNfdQ6lXa1hB2C3VYgaW0fmPIL1fCI/ddfzfANzCsggEuvPI2xRYoZouw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zPXFnXSMLx+RCMu4VwdDciEVtjDZmAcnG3POwTgCea8R7qbTA8NZj+fvXzljakiCf4NyQj7e+oOAaZrm8/yBRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\05. Fashion Boutique\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

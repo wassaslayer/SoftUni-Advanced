@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsYHnEL90v2BB22gAGDpdlBDa/b6W8Sk7vDU1adx6BooYVo+4UoRbJA8in0seEXS/i5yI4vv/uXueMuypJAl/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\Reverse Strings\\Reverse Strings\\Reverse Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

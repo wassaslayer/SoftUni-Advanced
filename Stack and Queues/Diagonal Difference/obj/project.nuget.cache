@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9LSDlw2z4ONR3wtAiY/2waKDN3QilCzqpzm05ExLAtv65w/BqiMad4Iy89I7QzT2ACzSTHT2MTqruiHv/mq7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\Diagonal Difference\\Diagonal Difference\\Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

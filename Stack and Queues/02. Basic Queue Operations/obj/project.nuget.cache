@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCGy5qtsluTLhMqNXy7LmNHgIsCZ/9Q67yGF2eAwE7b7ESypdJC2XjXSyEuxlzKkMRxjp0Uu7KcTdsq0ZcComA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\02. Basic Queue Operations\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

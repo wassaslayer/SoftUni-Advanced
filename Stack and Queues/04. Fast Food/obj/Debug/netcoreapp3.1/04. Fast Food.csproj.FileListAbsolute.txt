@@ -1,0 +1,13 @@
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache
+C:\Users\Yoan\source\repos\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csprojAssemblyReference.cache

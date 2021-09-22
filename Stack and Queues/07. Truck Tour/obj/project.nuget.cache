@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CRMo9ca9dbj53X6Ghv7nQajhUjJiX0mDGkbQL8CSdPOSZRzMT444Y1rX0DaWOHUgOqdRs4HrtbRZltdFeOkYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoan\\source\\repos\\07. Truck Tour\\07. Truck Tour\\07. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
